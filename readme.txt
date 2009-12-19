@@ -2,7 +2,7 @@
 Contributors: gpoul
 Tags: date, statistics, stats
 Requires at least: 2.3.2
-Tested up to: 2.7
+Tested up to: 2.9
 Stable tag: trunk
 
 date-index creates a graph of the number of posts made over time using the Google Chart API.
